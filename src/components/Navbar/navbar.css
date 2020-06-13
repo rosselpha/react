@@ -1,0 +1,38 @@
+.img-logo{
+    padding-top: 0.1rem;
+    max-height: 3.5rem;
+}
+
+/* li {
+    list-style: none; */
+    /* text-decoration: none;
+
+ } */
+
+ /* a{
+text-decoration: none;
+color: black;
+ }
+
+a:hover, a:active{
+    color: #b47de7;
+}
+ a:visited{
+     list-style: none;
+ }  */
+
+ .nav_bar {
+     background-color: #ffffff;
+     text-decoration: black;
+     padding-bottom: 20px;
+ }
+ .inner_nav {
+     padding-top: 20px;
+ }
+
+ ul li a{
+     color: black;
+ }
+ nav{
+    height: 100px;
+ }
